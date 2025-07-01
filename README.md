@@ -6,4 +6,4 @@ We did system that control the electrical functions of car.
 - Headlight control according to light level.
 - Other system running control according to engine running status.
 ## 🖼️Circuit Diagram
-![Circuit]()
+![Circuit](/images/image.png)
