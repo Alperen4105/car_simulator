@@ -35,5 +35,7 @@ We did system that control the electrical functions of car.
 - Select Arduino Mega 2560 and upload the code, then compile.
 - Upload the resulting "/.hex" file to the Arduino board in the circuit.
 
-
+## Communication
+If you encounter a problem, you can contact us.
+-> alperenplk.28@gmail.com -> talhakkmz@icloud.fr
   
